@@ -1,0 +1,28 @@
+#white{
+
+
+height: 200px;
+background-color: blue;
+
+
+}
+
+#black{
+
+background-color: black;
+height: 200px;
+}
+
+#orange{
+
+height: 200px;
+background-color: orange;
+
+
+}
+.style{
+	width: 300px;
+	padding-top: 20px;
+	position: absolute;
+	margin-top: -500px;
+}
